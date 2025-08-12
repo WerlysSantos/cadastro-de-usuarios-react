@@ -27,7 +27,7 @@ Permite **listar, cadastrar e excluir usuários**, integrando-se a uma API Node.
 ## 🔗 Integração com a API
 
 Este frontend consome a API disponível em:  
-**[📂 Repositório da API no GitHub](https://github.com/WerlysSantos/cadastro-de-usuarios-react)**
+**[📂 Repositório da API no GitHub](https://github.com/WerlysSantos/api-nodejs-cadastro-de-usuarios)**
 
 ### 🔄 Alterações na API para integração
 Para permitir a integração com este frontend, foram realizadas as seguintes modificações na API original:
@@ -59,8 +59,8 @@ Para permitir a integração com este frontend, foram realizadas as seguintes mo
 
 ### **1️⃣ Clonar o repositório**
 ```bash
-git clone https://github.com/seu-usuario/cadastro-usuarios-frontend.git
-cd cadastro-usuarios-frontend
+git clone https://github.com/WerlysSantos/cadastro-de-usuarios-react
+cd cadastro-usuarios-react
 ```
 
 ### **2️⃣ Instalar dependências**
