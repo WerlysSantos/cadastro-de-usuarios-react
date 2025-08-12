@@ -7,7 +7,10 @@ Permite **listar, cadastrar e excluir usuários**, integrando-se a uma API Node.
 
 ## 🖥️ Demonstração
 
-> *(Adicione aqui uma captura de tela ou GIF mostrando a aplicação funcionando)*
+![Cadastro de Usuários - Google Chrome 2025-08-12 13-11-20](https://github.com/user-attachments/assets/eb40d571-25fd-41d6-b57f-633d1c2057a4)
+<img width="1366" height="637" alt="image" src="https://github.com/user-attachments/assets/0355855b-5654-4916-9677-598409e2396d" />
+<img width="1366" height="638" alt="image" src="https://github.com/user-attachments/assets/bd642563-045c-4682-a5c6-c26f31df92fd" />
+<img width="1366" height="637" alt="image" src="https://github.com/user-attachments/assets/66c2ec5f-4b0b-49ce-bc2d-2a46d8909ab5" />
 
 ---
 
